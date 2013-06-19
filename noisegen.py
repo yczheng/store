@@ -7,5 +7,6 @@ def main():
     
     pickle.dump(noise, F)
     F.close()
+    #changes branches la di da
     
 main()
